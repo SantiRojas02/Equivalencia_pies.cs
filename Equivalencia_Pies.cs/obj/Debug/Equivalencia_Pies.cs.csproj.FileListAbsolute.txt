@@ -1,0 +1,6 @@
+D:\Facultad\Programacion\Act 1 c#\Equivalencia_Pies.cs\Equivalencia_Pies.cs\bin\Debug\Equivalencia_Pies.cs.exe.config
+D:\Facultad\Programacion\Act 1 c#\Equivalencia_Pies.cs\Equivalencia_Pies.cs\obj\Debug\Equivalencia_Pies.cs.csprojResolveAssemblyReference.cache
+D:\Facultad\Programacion\Act 1 c#\Equivalencia_Pies.cs\Equivalencia_Pies.cs\bin\Debug\Equivalencia_Pies.cs.exe
+D:\Facultad\Programacion\Act 1 c#\Equivalencia_Pies.cs\Equivalencia_Pies.cs\bin\Debug\Equivalencia_Pies.cs.pdb
+D:\Facultad\Programacion\Act 1 c#\Equivalencia_Pies.cs\Equivalencia_Pies.cs\obj\Debug\Equivalencia_Pies.cs.exe
+D:\Facultad\Programacion\Act 1 c#\Equivalencia_Pies.cs\Equivalencia_Pies.cs\obj\Debug\Equivalencia_Pies.cs.pdb
